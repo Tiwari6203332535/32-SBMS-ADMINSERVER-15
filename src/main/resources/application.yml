@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: 33-SBMS_AdminServer-15
+server:
+  port: 1111
